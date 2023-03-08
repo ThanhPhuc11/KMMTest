@@ -1,0 +1,23 @@
+PODS:
+  - PMTPodTest (1.0.3)
+  - shared (1.0):
+    - PMTPodTest
+
+DEPENDENCIES:
+  - shared (from `../shared`)
+
+SPEC REPOS:
+  trunk:
+    - PMTPodTest
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  PMTPodTest: 9c11ab66e7fc7a5c64a1a08517de6be1df5a6a48
+  shared: eae00732182ce847a8b9ef59695c3d6f03c8febb
+
+PODFILE CHECKSUM: f282da88f39e69507b0a255187c8a6b644477756
+
+COCOAPODS: 1.11.3
